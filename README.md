@@ -6,6 +6,7 @@ This is the sample app of the [1, 2, 3: SpringBoot, Docker, Nginx, DigitalOcean]
 ## Setup
 
 Clone the repository
+This is test readme
 
 ```
 git clone https://github.com/gcatanese/1-2-3-SpringBoot-Docker-Nginx-DigitalOcean.git
