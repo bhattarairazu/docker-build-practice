@@ -24,7 +24,7 @@ public class AppController {
     ResponseEntity<?> test(HttpServletRequest request) throws Exception {
         log.info("/test");
 
-        return ResponseEntity.ok().body("Ok");
+        return ResponseEntity.ok().body("Ok hello world");
     }
 
 }

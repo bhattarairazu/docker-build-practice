@@ -3,7 +3,7 @@ version: "3"
 services:
 
   myapp:
-    image: mydomain/myapp:v0.0.1-a
+    image: bhattarai1234/myapp:v0.0.1-a
     container_name: myapp
     ports:
       - "8080:8080"
